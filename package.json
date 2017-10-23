@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "James, please"
+  },
+  "deprecated": false,
+  "description": "momentjs-business",
+  "homepage": "https://github.com/jmeas/moment-business#readme",
+  "license": "ISC",
+  "main": "momentjs-business.js",
+  "name": "momentjs-business",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeas/moment-business.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
